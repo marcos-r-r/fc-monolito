@@ -8,7 +8,7 @@ import FindInvoiceUseCase from "../usecase/find-invoice/find-invoice.usecase"
 import InvoiceFacadeFactory from "../factory/invoice.facade.factory"
 
 
-describe("Invoice Facade test", () => {
+describe("Invoice Facade test.", () => {
 
   let sequelize: Sequelize
 
